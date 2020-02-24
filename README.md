@@ -2,8 +2,8 @@
 Highly undersampled magnetic resonance image reconstruction using two-level Bregman method with dictionary updating
 
 % The Code is created based on the method described in the following paper:       
-%	Q. Liu, K. Yang, J. Luo, Y. Zhu, D. Liang. Highly undersampled magnetic resonance image reconstruction using two-level Bregman   
-% method with dictionary updating, IEEE Trans. Med. Imag., 32 (7): 1290-1301, 2013.   
+%	Q. Liu, K. Yang, J. Luo, Y. Zhu, D. Liang. Highly undersampled magnetic resonance image reconstruction using two-level       
+% Bregman method with dictionary updating, IEEE Trans. Med. Imag., 32 (7): 1290-1301, 2013.   
 % Date : 06/7/2013    
 % Version : 1.0     
 % The code and the algorithm are for non-comercial use only.     
