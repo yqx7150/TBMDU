@@ -19,7 +19,7 @@ Highly undersampled magnetic resonance image reconstruction using two-level Breg
   
   * Convolutional Sparse Coding in Gradient Domain for MRI Reconstruction [<font size=5>**[Paper]**</font>](http://html.rhhz.net/ZDHXBZWB/html/2017-10-1841.htm)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GradCSC)
     
-  * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)
+  * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
   
   * Synthesis-analysis deconvolutional network for compressed sensing [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8296620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SADN)
 
