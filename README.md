@@ -14,7 +14,7 @@ Highly undersampled magnetic resonance image reconstruction using two-level Breg
 ## Demo of TBMDU
 ![](./figs/display_result.png)  
 
-## Display of intermediate results
+## Display of Intermediate Results
 ![](./figs/display_iter.png)  
 From Top to Bottom：updated dictionary; reconstructed result. 
 
