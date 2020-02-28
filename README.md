@@ -11,6 +11,13 @@ Highly undersampled magnetic resonance image reconstruction using two-level Breg
 % The current version is not optimized.     
 
 
+## Demo of TBMDU
+![](./figs/display_result.png)  
+
+## Display of intermediate results
+![](./figs/display_iter.png)  
+From Top to Bottom：updated dictionary; reconstructed result. 
+
 
 ## Other Related Projects
   * Predual dictionary learning (PDL) / augmented Lagrangian multi-scale dictionary learning(ALM-DL) [<font size=5>**[Paper]**</font>](http://www.escience.cn/people/liuqiegen/index.html;jsessionid=5E20FEE3694E8BB3249B64202A8E25C8-n1)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PDL_ALM_DL_code) 
